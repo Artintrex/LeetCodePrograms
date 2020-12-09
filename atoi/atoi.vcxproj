@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{4c4852b9-8dd5-44ce-b85f-2e1fd7d899c1}</ProjectGuid>
-    <RootNamespace>ConsoleApplicationTesting</RootNamespace>
+    <ProjectGuid>{f17d660e-b00c-40f6-9a68-cff7a4e88b13}</ProjectGuid>
+    <RootNamespace>atoi</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>LeetCode-StrongPasswordChecker</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="StrongPasswordChecker.cpp" />
+    <ClCompile Include="atoi.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

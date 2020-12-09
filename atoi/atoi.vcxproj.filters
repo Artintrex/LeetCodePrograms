@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="StrongPasswordChecker.cpp">
+    <ClCompile Include="atoi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
