@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode-StrongPasswordChecker", "StrongPasswordChecker\StrongPasswordChecker.vcxproj", "{4C4852B9-8DD5-44CE-B85F-2E1FD7D899C1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StrongPasswordChecker", "StrongPasswordChecker\StrongPasswordChecker.vcxproj", "{4C4852B9-8DD5-44CE-B85F-2E1FD7D899C1}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "atoi", "atoi\atoi.vcxproj", "{F17D660E-B00C-40F6-9A68-CFF7A4E88B13}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MaxPointsOnALine", "MaxPointsOnALine\MaxPointsOnALine.vcxproj", "{EE28B6C9-2C25-4699-A0DA-5C0113C5CE87}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeExperiment", "CodeExperiment\CodeExperiment.vcxproj", "{8060933F-B07A-45A2-AD8F-EEC489278BBE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +35,22 @@ Global
 		{F17D660E-B00C-40F6-9A68-CFF7A4E88B13}.Release|x64.Build.0 = Release|x64
 		{F17D660E-B00C-40F6-9A68-CFF7A4E88B13}.Release|x86.ActiveCfg = Release|Win32
 		{F17D660E-B00C-40F6-9A68-CFF7A4E88B13}.Release|x86.Build.0 = Release|Win32
+		{EE28B6C9-2C25-4699-A0DA-5C0113C5CE87}.Debug|x64.ActiveCfg = Debug|x64
+		{EE28B6C9-2C25-4699-A0DA-5C0113C5CE87}.Debug|x64.Build.0 = Debug|x64
+		{EE28B6C9-2C25-4699-A0DA-5C0113C5CE87}.Debug|x86.ActiveCfg = Debug|Win32
+		{EE28B6C9-2C25-4699-A0DA-5C0113C5CE87}.Debug|x86.Build.0 = Debug|Win32
+		{EE28B6C9-2C25-4699-A0DA-5C0113C5CE87}.Release|x64.ActiveCfg = Release|x64
+		{EE28B6C9-2C25-4699-A0DA-5C0113C5CE87}.Release|x64.Build.0 = Release|x64
+		{EE28B6C9-2C25-4699-A0DA-5C0113C5CE87}.Release|x86.ActiveCfg = Release|Win32
+		{EE28B6C9-2C25-4699-A0DA-5C0113C5CE87}.Release|x86.Build.0 = Release|Win32
+		{8060933F-B07A-45A2-AD8F-EEC489278BBE}.Debug|x64.ActiveCfg = Debug|x64
+		{8060933F-B07A-45A2-AD8F-EEC489278BBE}.Debug|x64.Build.0 = Debug|x64
+		{8060933F-B07A-45A2-AD8F-EEC489278BBE}.Debug|x86.ActiveCfg = Debug|Win32
+		{8060933F-B07A-45A2-AD8F-EEC489278BBE}.Debug|x86.Build.0 = Debug|Win32
+		{8060933F-B07A-45A2-AD8F-EEC489278BBE}.Release|x64.ActiveCfg = Release|x64
+		{8060933F-B07A-45A2-AD8F-EEC489278BBE}.Release|x64.Build.0 = Release|x64
+		{8060933F-B07A-45A2-AD8F-EEC489278BBE}.Release|x86.ActiveCfg = Release|Win32
+		{8060933F-B07A-45A2-AD8F-EEC489278BBE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

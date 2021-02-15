@@ -1,5 +1,7 @@
 #include <iostream>
 #include <vector>
+#include <utility>
+#include <algorithm>
 
 class Solution {
 public:
@@ -100,7 +102,7 @@ private:
 void Test(std::string s, int result)
 {
     Solution solution;
-
+	
     int r = solution.strongPasswordChecker(s);
 	
     if (r == result) {
@@ -115,7 +117,7 @@ void Test(std::string s, int result)
 int main()
 {
 	if(1)
-	{
+	{	
         Test("1", 5);
         Test("11", 4);
         Test("111", 3);
